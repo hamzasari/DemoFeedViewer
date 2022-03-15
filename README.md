@@ -69,3 +69,5 @@ In `middleware` folder, I added the configurations for axios, defined the api ca
 ### **Tests**
 
 I implemented the unit tests for middleware accessor methods.
+
+I implemented the unit tests for utility methods.
