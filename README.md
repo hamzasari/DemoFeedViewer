@@ -66,6 +66,12 @@ In `redux` folder, I created;
 
 In `middleware` folder, I added the configurations for axios, defined the api calls and accessor methods for these api calls.
 
+### **Routing**
+
+For routing, I used `react-navigation` for this project.
+
+In `navigation` folder, I defined route definitions and stack navigator for navigation.
+
 ### **Tests**
 
 I implemented the unit tests for middleware accessor methods.
