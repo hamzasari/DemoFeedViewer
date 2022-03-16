@@ -60,7 +60,7 @@ const Home = (props: Props) => {
   return (
     <PageContainer>
       <Header />
-      {!pending && (
+      {!props.pending && (
         <FeedListContainer>
           <FeedList
             feeds={props.feeds}

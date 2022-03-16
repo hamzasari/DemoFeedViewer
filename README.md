@@ -6,22 +6,22 @@ Also, I will use `yarn` when developing this application. To install `yarn` you 
 
 ## Requirements
 
-- [ ] Create a react native app
-- [ ] Mock the data with an API
-- [ ] Use Redux for global state management
-- [ ] Use Styled Components for styling
-- [ ] When I launched the app, it should direct me to the Feed view
-- [ ] The feed view should be a scrollable list
-- [ ] The feed view should show 10 feeds initially
-- [ ] Each feed should have an author and a body of content which is limited to 100 characters
-- [ ] Each author should have an avatar and a name
-- [ ] When I scroll to the top of the list and pull down, it should refresh and load newer feeds
-- [ ] When I scroll to the bottom, it should load older posts with lazy loading
-- [ ] When I select one of the feeds, it should go to a new screen to show the details of that feed in a more pleasant way
-- [ ] In feed detail page, the app should show the avatar and the name of the author and the body of the feed
-- [ ] I should be able to navigate back from the feed detail page
-- [ ] When I navigated from the feed detail to home, list should automatically scroll to the last element that I opened
-- [ ] If I press the Author's avatar or name in the feed detail view, the app should take me to the Profile page for that Author
+- [x] Create a react native app
+- [x] Mock the data with an API
+- [x] Use Redux for global state management
+- [x] Use Styled Components for styling
+- [x] When I launched the app, it should direct me to the Feed view
+- [x] The feed view should be a scrollable list
+- [x] The feed view should show 10 feeds initially
+- [x] Each feed should have an author and a body of content which is limited to 100 characters
+- [x] Each author should have an avatar and a name
+- [x] When I scroll to the top of the list and pull down, it should refresh and load newer feeds
+- [x] When I scroll to the bottom, it should load older posts with lazy loading
+- [x] When I select one of the feeds, it should go to a new screen to show the details of that feed in a more pleasant way
+- [x] In feed detail page, the app should show the avatar and the name of the author and the body of the feed
+- [x] I should be able to navigate back from the feed detail page
+- [x] When I navigated from the feed detail to home, list should automatically scroll to the last element that I opened
+- [x] If I press the Author's avatar or name in the feed detail view, the app should take me to the Profile page for that Author
 
 ## Tools
 
